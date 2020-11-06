@@ -1,0 +1,166 @@
+b'\x10\x08\x19\x10\n'
+
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+
+D:\Python_code\Arduino> cd d:\Python_code\Arduino && cmd /C "C:\Users\RayLin\AppData\Local\Programs\Python\Python37\python.exe c:\Users\RayLin\.vscode\extensions\ms-python.python-2020.10.332292344\pythonFiles\lib\python\debugpy\launcher 52265 -- d:\Python_code\Arduino\RS232.py "
+b'\x10\x08\x19\x10\n'
+
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+b'\x05\x00\x00\x01K\x10\x08\x19\x10\n'
+  
+
+<class 'bytes'>
+b'\n'
+
+
+<class 'bytes'>
+
+D:\Python_code\Arduino>
+  
+
